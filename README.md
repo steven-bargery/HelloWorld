@@ -1,2 +1,7 @@
-# HelloWorld
-This is my first repository!
+![headshot](steve_pic.jpg)
+
+# A little about myself
+
+## My Career
+
+## My Hobbies
